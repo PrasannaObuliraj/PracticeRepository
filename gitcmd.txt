@@ -1,0 +1,78 @@
+  277  nano digitCheck.sh
+  282  nano digitCheck.sh
+  285  nano digitCheck.sh
+  286  ./digitCheck.sh
+  287  nano digitCheck.sh
+  288  ./digitCheck.sh
+  289  nano digitCheck.sh
+  290  ./digitCheck.sh
+  291  nano digitCheck.sh
+  292  ./digitCheck.sh
+  293  nano digitCheck.sh
+  294  ./digitCheck.sh
+  295  nano digitCheck.sh
+  296  ./digitCheck.sh
+  297  nano digitCheck.sh
+  298  ./digitCheck.sh
+  299  nano digitCheck.sh
+  300  nano digitCheck.sh
+  301  ./digitCheck.sh
+  302  nano digitCheck.sh
+  303  ./digitCheck.sh
+  304  nano digitCheck.sh
+  305  ./digitCheck.sh
+  306  nano digitCheck.sh
+  307  nano digitCheck.sh
+  308  nano digitCheck.sh
+  309  ./digitCheck.sh
+  310  nano digitCheck.sh
+  311  ./digitCheck.sh
+  312  nano digitCheck.sh
+  313  ./digitCheck.sh
+  314  nano digitCheck.sh
+  337  ./digitCheck.sh
+  338  nano digitCheck.sh
+  339  nano digitCheck.sh
+  340  ./digitCheck.sh
+  341  bash digitCheck.sh
+  342  nano digitCheck.sh
+  343  bash digitCheck.sh
+  344  nano digitCheck.sh
+  345  bash digitCheck.sh
+  346  nano digitCheck.sh
+  347  bash digitCheck.sh
+  348  nano digitCheck.sh
+  349  bash digitCheck.sh
+  350  nano digitCheck.sh
+  351  bash digitCheck.sh
+  352  nano digitCheck.sh
+  353  nano digitCheck.sh
+  354  bash digitCheck.sh
+  355  nano digitCheck.sh
+  356  bash digitCheck.sh
+  357  nano digitCheck.sh
+  358  bash digitCheck.sh
+  359  nano digitCheck.sh
+  360  bash digitCheck.sh
+  361  bash digitCheck.sh
+  362  nano digitCheck.sh
+  363  bash digitCheck.sh
+  364  bash digitCheck.sh
+  445  nano digitCheck.sh
+  446  bash digitCheck.sh
+  447  bash digitCheck.sh
+  448  nano digitCheck.sh
+  460  nano digitCheck.sh
+  461  bash digitCheck.sh
+  462  nano digitCheck.sh 
+  514  git init
+  516  git config --global user.email "press1998@gmail.com"
+  517  git config user.email
+  518  git config user.name
+  519  git config user.name
+  523  nano .gitignore
+  525  nano .gitignore
+  528  history | grep git
+  529  history | grep git
+  531  history | grep git
+  532  history | grep git > gitcmd.txt
